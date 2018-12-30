@@ -14,13 +14,17 @@ Trước tiên đề có cái nhìn tổng quan về Trí Tuệ Nhân Tạo (Art
 <p align="center">
 <img src="https://1.bp.blogspot.com/-S950Up6NXDA/VxZ2ARnrEvI/AAAAAAAACI0/Y9rYr3u8-LsnYUGvP0y-gSba3u93pEzeACLcB/s640/ML1.jpg">
 </p>
+<p align="center">
 <span style="color: #fffff; font-family: Helvetica; font-size: 9pt;">Fig. 1. <b>A Deep Dive in the Venture Landscape of Artificial Intelligence and Machine Learning</b> - September 2015 Ajit Nazre Rahul Garg.</span>
+</p>
 
 <p align="center">
 <img src="https://2.bp.blogspot.com/-CC29pyOJ8CI/VxZ2Aet6fTI/AAAAAAAACIw/nMEW0Q83L-Y_oRM1LbUDvE_l_LzcNULOwCLcB/s400/ML2.jpg">
 </p>
+<p align="center">
 <span style="color: #fffff; font-family: Helvetica; font-size: 9pt;">Fig. 2. <b>Machine Learning</b> - <a href="http://www.humphreysheil.com/blog/deep-learning-and-machine-learning">http://www.humphreysheil.com/blog/deep-learning-and-machine-learning</a>
 </span>
+</p>
 
 Trí Tuệ Nhân Tạo là lĩnh vực rộng nhất của Khoa Học Máy Tính và có rất nhiều nhánh con như: Máy Học, Biểu Diễn Tri Thức và Suy Luận, Xử Lý Ngôn Ngữ Tự Nhiên, Thị Giác Máy Tính... Nói nôm na, AI là giấc mơ của con người nói chung là Khoa Học Máy Tính nói riêng để biến máy tính trở thành cỗ máy có trí thông mình gần giống với con người. Vấn đề này có vẻ khá mơ hồ và ở hiện tại vẫn chưa có cỗ máy nào có khả năng học hỏi được như một đứa bé 5 tuổi. Tuy nhiên, với sự bùng nổ của máy móc và các thuật toán AI, chúng ta hi vọng một ngày không xa sẽ xây dựng được hệ thống thông minh như con người và giúp ích cho cuộc sống (không gây hại là được :3 )
 
