@@ -20,8 +20,7 @@ Visual Studio thì các bạn tự cài nhé :)
 Sau khi chuẩn bị xong, ta sẽ đi qua bước kết nối.
 Trong phần này, tôi sẽ demo để truy vấn 1 file prolog có nội dung như sau:
 
-```
-s-->np,vp.
+```s-->np,vp.
 np-->nn,pp.
 np-->nnp.
 np-->nn.
@@ -50,8 +49,7 @@ vb-->[về].
 vb-->[thích].
 
 rb-->[đang].
-rb-->[thường].
-```
+rb-->[thường].```
 {: style="text-align:center"}
 Trước tiên, tạo 1 project Windows Form trên C# với giao diện như sau:  
 ![fig_1](https://3.bp.blogspot.com/-523sEuVn-8s/Vl1K-cHCVjI/AAAAAAAABt8/VjEz8_wBYpI/s320/2015-12-01_094129.jpg)
