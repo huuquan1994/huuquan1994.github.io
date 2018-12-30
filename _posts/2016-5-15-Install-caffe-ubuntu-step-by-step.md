@@ -169,6 +169,7 @@ Sau đó chạy lại lệnh trên để cài protobuf cho python.
 </p>
 Chạy lại iPython và import Caffe lần nữa. Có lẽ sẽ hết lỗi :))
 
+<p align="center">
 <img src="https://3.bp.blogspot.com/-qlE3yaC3vsQ/Vz-0vLSxi8I/AAAAAAAACMU/_wYbCiLqlbM0-SdRxurG3Ua08E_OgmexQCK4B/s640/4.png">
 </p>
 Nếu có vấn đề gì, xin vui lòng bình luận ở dưới hoặc liên hệ qua email cho mình :)
