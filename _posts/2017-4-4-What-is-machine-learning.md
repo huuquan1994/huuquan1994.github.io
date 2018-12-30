@@ -14,4 +14,4 @@ Trước tiên đề có cái nhìn tổng quan về Trí Tuệ Nhân Tạo (Art
 <p align="center">
 <img src="https://1.bp.blogspot.com/-S950Up6NXDA/VxZ2ARnrEvI/AAAAAAAACI0/Y9rYr3u8-LsnYUGvP0y-gSba3u93pEzeACLcB/s640/ML1.jpg">
 </p>
-<span style="color: #fffff; font-family: Helvetica; font-size: 10pt;">Fig. 1. A Deep Dive in the Venture Landscape of Artificial Intelligence and Machine Learning - September 2015 Ajit Nazre Rahul Garg.</span>
+<span style="color: #fffff; font-family: Helvetica; font-size: 9pt;">Fig. 1. A Deep Dive in the Venture Landscape of Artificial Intelligence and Machine Learning - September 2015 Ajit Nazre Rahul Garg.</span>
