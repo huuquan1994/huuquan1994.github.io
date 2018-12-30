@@ -20,36 +20,40 @@ Visual Studio thì các bạn tự cài nhé :)
 Sau khi chuẩn bị xong, ta sẽ đi qua bước kết nối.
 Trong phần này, tôi sẽ demo để truy vấn 1 file prolog có nội dung như sau:
 
-```s-->np,vp.
-np-->nn,pp.
-np-->nnp.
-np-->nn.
-np-->nn,nn.
-vp-->rb,vb,pp.
-vp-->vb,pp.
-vp-->rb,vb,np.
-vp-->vb,vp.
-vp-->vb,np.
-pp-->in,nnp.
-pp-->in,nn.
-pp-->in,np.
+<div style="background: #f8f8f8; border-width: 0.1em 0.1em 0.1em 0.8em; border: solid gray; overflow: auto; padding: 0.2em 0.6em; width: auto;">
+<pre style="line-height: 125%; margin: 0;">s--&gt;np,vp.
+np--&gt;nn,pp.
+np--&gt;nnp.
+np--&gt;nn.
+np--&gt;nn,nn.
+vp--&gt;rb,vb,pp.
+vp--&gt;vb,pp.
+vp--&gt;rb,vb,np.
+vp--&gt;vb,vp.
+vp--&gt;vb,np.
+pp--&gt;in,nnp.
+pp--&gt;in,nn.
+pp--&gt;in,np.
 
-nn-->[gia,đình].
-nn-->[tỉnh].
-nn-->[nhà].
-nn-->[ngành].
-nn-->[công,nghệ,thông,tin].
-nn-->[thành,phố].
-in-->[của].
-in-->[ở].
-nnp-->[nam].
-vb-->[sống].
-vb-->[học].
-vb-->[về].
-vb-->[thích].
+nn--&gt;[gia,đình].
+nn--&gt;[tỉnh].
+nn--&gt;[nhà].
+nn--&gt;[ngành].
+nn--&gt;[công,nghệ,thông,tin].
+nn--&gt;[thành,phố].
+in--&gt;[của].
+in--&gt;[ở].
+nnp--&gt;[nam].
+vb--&gt;[sống].
+vb--&gt;[học].
+vb--&gt;[về].
+vb--&gt;[thích].
 
-rb-->[đang].
-rb-->[thường].```
-{: style="text-align:center"}
+rb--&gt;[đang].
+rb--&gt;[thường].
+</pre>
+</div>
+
 Trước tiên, tạo 1 project Windows Form trên C# với giao diện như sau:  
+{:.center}
 ![fig_1](https://3.bp.blogspot.com/-523sEuVn-8s/Vl1K-cHCVjI/AAAAAAAABt8/VjEz8_wBYpI/s320/2015-12-01_094129.jpg)
