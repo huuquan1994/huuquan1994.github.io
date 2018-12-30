@@ -52,12 +52,12 @@ Phần này sẽ giới thiệu về khái niệm và ứng dụng của Supervi
 
 ### Supervised Learning
 
-### - Định nghĩa:  
+#### - Định nghĩa:  
 Supervised Learning (SL) là một kĩ thuật học máy để học tập từ tập dữ liệu được gán nhãn cho trước. Tập dữ liệu cho trước sẽ chứa nhiều bộ dữ liệu. Mỗi bộ dữ liệu có cấu trúc theo cặp **_{x, y}_** với **_x_** được xem là dữ liệu thô (raw data) và y là nhãn của dữ liệu đó. Nhiệm vụ của SL là dự đoán đầu ra mong muốn dựa vào giá trị đầu vào. Dễ nhận ra, học có GIÁM SÁT tức là máy học dựa vào sự trợ giúp của con người, hay nói cách khác con người dạy cho máy học và giá trị đầu ra mong muốn được định trước bởi con người. Tập dữ liệu huấn luyện hoàn toàn được gán nhãn dựa vào con người. Tập càng nhỏ thì máy tính học càng ít.  
 SL cũng được áp dụng cho 2 nhóm bài toán chính là bài toán dự đoán (regression problem) và bài toán phân lớp (classification problem).
 Kỹ thuật SL thực chất là để xây dựng một hàm có thể xuất ra giá trị đầu ra tương ứng với tập dữ liệu. Ta gọi hàm này là hàm h(x) và mong muốn hàm này xuất ra đúng giá trị y với một hoặc nhiều tập dữ liệu mới khác với dữ liệu được học. Hàm h(x) cần các loại tham số học khác nhau tùy thuộc với nhiều bài toán khác nhau. Việc học từ tập dữ liệu (training) cũng chính là tìm ra bộ tham số học cho hàm h(x).
 
-### - Ứng dụng:  
+#### - Ứng dụng:  
 Các ứng dụng của SL có thể kể đến tương ứng với 2 dạng bài toán nêu trên như sau:  
 **Bài toán dự đoán (regression problem)**: Bài toán dự đoán sẽ có đầu ra là một giá trị liên tục. Ví dụ: Bài toán dự đoán giá nhà, dự đoán xu hướng giá xăng, dự báo thời tiết....  
 Xét cụ thể bài toán dự báo giá nhà. Hãy đặt câu hỏi, đầu vào của bài toán và đầu ra của bài toán là gì?  
@@ -67,12 +67,12 @@ Tập dữ liệu để huấn luyện ở đây là thông tin có sẵn về n
 Xét cụ thể bài toán nhận dạng ký tự số thì khác với bài toán dự báo giá nhà, đầu ra của bài toán nhận dạng ký tự số chỉ là 10 lớp tương ứng với 10 số (từ 0 - 9). Các giá trị này là giá trị rời rạc.
 Tập dữ liệu cũng tương tự như trên bài toán dự đoán, tuy nhiên giá trị đầu ra sẽ bị giới hạn bởi giá trị của các lớp cần phân loại. Trong trường hợp này y thuộc {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 
-## Unsupervised Learning
+### Unsupervised Learning
 
-### - Định nghĩa:
+#### - Định nghĩa:
 Unsupervised Learning (UL) là một kĩ thuật của máy học nhằm tìm ra một mô hình hay cấu trúc bị ẩn bơi tập dữ liệu KHÔNG được gán nhãn cho trước. UL khác với SL là không thể xác định trước output từ tập dữ liệu huấn luyện được. Tùy thuộc vào tập huấn luyện kết quả output sẽ khác nhau. Trái ngược với SL, tập dữ liệu huấn luyện của UL không do con người gán nhãn, máy tính sẽ phải tự học hoàn toàn. Có thể nói, học KHÔNG GIÁM SÁT thì giá trị đầu ra sẽ phụ thuộc vào thuật toán UL.
 
-### - Ứng dụng:
+#### - Ứng dụng:
 Ứng dụng phổ biến nhất của học không giám sát là gom cụm (cluster). Đương nhiên sẽ có nhiều ứng dụng khác, có cơ hội tôi sẽ đề cập thêm.
 Ứng dụng này dễ nhận ra nhất là Google và Facbook. Google có thể gom nhóm các bài báo có nội dung gần nhau, hoặc Facebook có thể gợi ý kết bạn có nhiều bạn chung cho bạn.  
 Các bài báo có cùng nội dung sẽ được gom lại thành một nhóm (cluster) phân biệt với các nhóm khác. Dữ liệu huấn luyện là các bài báo từ quá khứ tới hiện tại và tăng dần theo thời gian. Dễ nhận ra rằng dữ liệu không thể gán nhãn bởi con người :)
