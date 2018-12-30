@@ -57,3 +57,6 @@ rb--&gt;[thường].
 Trước tiên, tạo 1 project Windows Form trên C# với giao diện như sau:  
 {:.center}
 ![fig_1](https://3.bp.blogspot.com/-523sEuVn-8s/Vl1K-cHCVjI/AAAAAAAABt8/VjEz8_wBYpI/s320/2015-12-01_094129.jpg)
+.center {
+  text-align: center;
+}
