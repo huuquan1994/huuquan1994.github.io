@@ -38,5 +38,5 @@ A line can be represented as $$\rho = x\cos \theta + y\sin \theta$$ where $$\rho
 We know that every point on the line always satisfies this equation: $$\rho = x\cos \theta + y\sin \theta$$  (1). If we know a pair of ($$\rho, \theta$$), we always can draw a line.
 
 So, the idea of Hough Transform is creating a 2D array $$M$$ as a matrix to hold the values of two parameters ($$\rho$$ and $$\theta$$).  
-Let rows denote the $$\rho$$ and columns denote the $$\theta$$. We assume there exists a line $$d$$ with $$\rho=\rho_1$$ and $$\theta=\theta_1$$ on the image. If a point $$A(x_1,y_1)$$ lies on $d$ satisfies (1) $$\rho_1=x_1\cos \theta_1+y_1\sin \theta_1, we increase the value of $$M[\rho_1][\theta_1]$$ by 1.  
+Let rows denote the $$\rho$$ and columns denote the $$\theta$$. We assume there exists a line $$d$$ with $$\rho=\rho_1$$ and $$\theta=\theta_1$$ on the image. If a point $$A(x_1,y_1)$$ lies on $$d$$ satisfies (1) $$\rho_1=x_1\cos \theta_1+y_1\sin \theta_1$$, we increase the value of $$M[\rho_1][\theta_1]$$ by 1.  
 We will continue this process for every point on the line, increasing the value of $$M[\rho_1][\theta_1]$$ by 1 if that point satisfies equation (1). In the end, the value of $$M[\rho_1][\theta_1]$$ will be must bigger than another cell in 2D array $$M$$. And the value of $$M[\rho_1][\theta_1]$$ will be also the length of the line.
