@@ -19,9 +19,10 @@ Tiếp theo, cài đặt thư viện cần thiết để hỗ trợ compile và 
 
 Bật terminal (Ctrl + Alt + T) và gõ vào Terminal những lệnh sau:
 
-```
+<div style="background: #f8f8f8; border-width: 0.1em 0.1em 0.1em 0.8em; border: solid gray; overflow: auto; padding: 0.2em 0.6em; width: auto;">
+<pre style="line-height: 125%; margin: 0;">
 sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler
 sudo apt-get install --no-install-recommends libboost-all-dev
 sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
 sudo apt-get install libatlas-base-dev
-```
+</div>
