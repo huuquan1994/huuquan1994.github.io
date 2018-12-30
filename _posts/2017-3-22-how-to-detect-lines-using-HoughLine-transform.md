@@ -35,4 +35,4 @@ Now, let's see how Hough Line Transform can detect lines in the image.
 </p>
 A line can be represented as $$\rho = x\cos \theta + y\sin \theta$$ where $$\rho$$ is the perpendicular distance from the origin to the line, and $$\theta$$ is the angle formed by this perpendicular line and horizontal axis. That direction varies on how you represent the coordinate system. This representation above is used in OpenCV. Any vertical line will have 0 degree and horizontal lines will have 90 degrees of $$\theta$$. Normally, the origin point will be the top-left point in the image so the maximum $$\theta$$ is 90 degrees and minimum $$\theta$$ is 0 degree.
 
-We know that every point on the line always satisfies this equation: $$\rho = x\cos \theta + y\sin \theta$$  (1). If we know a pair of ($$\rho, $$\theta), we always can draw a line.
+We know that every point on the line always satisfies this equation: $$\rho = x\cos \theta + y\sin \theta$$  (1). If we know a pair of ($$\rho, \theta$$), we always can draw a line.
