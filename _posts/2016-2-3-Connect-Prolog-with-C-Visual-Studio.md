@@ -54,7 +54,8 @@ rb--&gt;[thường].
 </pre>
 </div>
 
-Trước tiên, tạo 1 project Windows Form trên C# với giao diện như sau:  
+Trước tiên, tạo 1 project Windows Form trên C# với giao diện như sau:
+
 <p align="center">
 <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
