@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a simple SUDOKU Solver from scratch - Part 1&#58; Grid Detection & Digit Extraction
+title: "Building a simple SUDOKU Solver from scratch - Part 1: Grid Detection & Digit Extraction"
 ---
 
 Hi there, today I'm gonna explain how to build a simple SUDOKU Solver by taking the image step-by-step. The result of SUDOKU will be shown in the current image just like this GIF image.
