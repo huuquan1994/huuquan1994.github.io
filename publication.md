@@ -4,7 +4,6 @@ title: Publication
 permalink: /publication/
 ---
 
-# My publication
 ### Journal
 * __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An end-to-end practical plant disease diagnosis system for wide-angle cucumber images," International Journal of Engineering & Technology, vol. 7, no. 4.11, pp. 106–111, 2018.
 
