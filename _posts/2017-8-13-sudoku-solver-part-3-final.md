@@ -12,15 +12,15 @@ The recognition result of a SUDOKU picture will be formed as a matrix like an ex
 <img src="https://3.bp.blogspot.com/-Nwh6i8Vj8ig/WY8auEITopI/AAAAAAAAEP4/Lgqff5gFoAIofWvm1iSaQMkTTQQuae8jwCLcBGAs/s400/WIN_20170813_00_09_42_Pro.jpg">
 </p>
 
-[0  9  7  0  5  0  2  1  0]  
-[0  0  0  0  8  0  1  0  0]  
-[0  0  2  0  9  7  0  6  3]  
-[0  6  0  0  0  0  3  0  9]  
-[3  0  0  4  1  9  0  0  6]  
-[7  0  9  0  0  0  0  2  0]  
-[8  3  0  2  4  0  9  0  0]  
-[0  0  6  0  3  0  0  0  0]  
-[0  5  4  0  7  0  6  3  0]  
+[0   9   7   0   5   0   2   1   0]  
+[0   0   0   0   8   0   1   0   0]  
+[0   0   2   0   9   7   0   6   3]  
+[0   6   0   0   0   0   3   0   9]  
+[3   0   0   4   1   9   0   0   6]  
+[7   0   9   0   0   0   0   2   0]  
+[8   3   0   2   4   0   9   0   0]  
+[0   0   6   0   3   0   0   0   0]  
+[0   5   4   0   7   0   6   3   0]  
 We assume the matrix of result after recognition (0 means the cell is empty)
 {: style="text-align: center"}
 
