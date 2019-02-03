@@ -3,7 +3,7 @@ layout: post
 title: "Building a simple SUDOKU Solver from scratch - Part 3: Putting in together"
 ---
 
-In part 2 of this series (See part 2), we've discussed how to recognize number from each cell in SUDOKU grid. With the help of SVM, we can easily recognize the digit number from SUDOKU image. Base on that recognition result, the SUDOKU grid can be solved by using the backtracking method.
+In part 2 of this series ([See part 2](https://caphuuquan.com/sudoku-solver-part-2-train-SVM/)), we've discussed how to recognize number from each cell in SUDOKU grid. With the help of SVM, we can easily recognize the digit number from SUDOKU image. Base on that recognition result, the SUDOKU grid can be solved by using the backtracking method.
 
 First, let's reform the recognition result to the matrix for the easier intuitive.
 The recognition result of a SUDOKU picture will be formed as a matrix like an example below.
