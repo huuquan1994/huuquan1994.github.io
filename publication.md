@@ -13,7 +13,10 @@ permalink: /publication/
 * __H. Q. Cap__, K. Suwa, E. Fujita, S. Kagiwada, H. Uga, H. Iyatomi, "A Deep Learning Approach for on-site Plant Leaf Detection," The 14th IEEE Colloquium on Signal Processing and its Applications (CSPA2018), Penang, Malaysia, March. 2018. [[Link]](https://ieeexplore.ieee.org/abstract/document/8368697)
 
 ### Domestic conference
-* __H. Q. Cap__, E. Fujita, K. Suwa, S. Kagiwada, H. Uga, H. Iyatomi, "A basic study on leaves detection with deep learning features," 16th Forum of Information Technology (FIT2017), Tokyo, Sep. 2017.
+* __Q. H. Cap__, E. Fujita, K. Suwa, S. Kagiwada, H. Uga, H. Iyatomi, "A basic study on leaves detection with deep learning features," 16th Forum of Information Technology (FIT2017), Tokyo, Sep. 2017.
+
+### Preprint
+* K. Suwa, __Q. H. Cap__, S. Kagiwada, H. Uga, H. Iyatomi, "A comparable study: Intrinsic difficulties of practical plant diagnosis from wide-angle images," CoRR, abs/1910.11506, 2019.
 
 ### Google Scholar
 [Quan Huu Cap](https://scholar.google.com/citations?user=a15V7MIAAAAJ&hl=en)
