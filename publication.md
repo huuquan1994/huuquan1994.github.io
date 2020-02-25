@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publication/
 ---
+### Preprint
+* __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," CoRR, abs/2002.10100, 2020.
 
 ### Journal
 * __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," International Journal of Engineering & Technology, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](https://www.sciencepubco.com/index.php/ijet/article/view/20784)
