@@ -4,10 +4,11 @@ title: Publications
 permalink: /publication/
 ---
 ### Preprint
+* __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," CoRR, abs/2010.06499, 2020. [[Link]](https://arxiv.org/abs/2010.06499)
 * __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," CoRR, abs/2002.10100, 2020. [[Link]](https://arxiv.org/abs/2002.10100)
 
 ### Journal
-* __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," International Journal of Engineering & Technology, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](https://www.sciencepubco.com/index.php/ijet/article/view/20784)
+* __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," International Journal of Engineering & Technology, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](http://iyatomi-lab.info/sites/default/files/user/IJET-20784.pdf)
 
 ### International conference
 * K. Suwa, __Q. H. Cap__, S. Kagiwada, H. Uga, H. Iyatomi, "A Comparable Study: Intrinsic Difficulties of Practical Plant Diagnosis from Wide-angle Images," IEEE BigData, Los Angeles, CA, 2019. [[Link]](https://arxiv.org/abs/1910.11506)
