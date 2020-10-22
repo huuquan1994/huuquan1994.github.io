@@ -21,3 +21,7 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 - 2016 Exchange student at the Japan-Asia Youth Exchange Program in Science (SAKURA)
 - 2016 First prize of the 4th ACM Programming Contest - UIT
 - 2013- 2015 Student with Five Good Merits - UIT (3 years in a row)
+
+### Academic Activities
+
+Reviewer: Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
