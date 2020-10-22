@@ -10,11 +10,10 @@ Applying Machine Learning/Deep Learning/Computer Vision for Automated & Precisio
 A dogs lover.  
 In love with Marvel Universe and many superhero movies.
 <br/><br/>
-<br/><br/>
 ### Research interests
 
 Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Precision Agriculture.
-<br/><br/>
+
 ### Awards and honors
 
 - Representative student to give a welcome speech at Hosei University's Fall Entrance Ceremony, 2020
@@ -23,7 +22,7 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 - Exchange student at the Japan-Asia Youth Exchange Program in Science (SAKURA), 2016
 - First prize of the 4th ACM Programming Contest - UIT, 2016
 - Student with Five Good Merits - UIT, 2013-2015 (3 years in a row)
-<br/><br/>
+
 ### Academic Activities
 
 Reviewer: Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
