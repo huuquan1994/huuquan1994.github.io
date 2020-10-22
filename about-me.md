@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about-me/
 ---
-<img align="right" src="{{ site.baseurl }}/images/quan_profile.png" width="200"/>
+<img align="right" src="{{ site.baseurl }}/images/quan_profile.png" width="190"/>
 
 Ph.D. student at Hosei University, Tokyo.  
 Applying Machine Learning/Deep Learning/Computer Vision for Automated & Precision Agriculture.  
