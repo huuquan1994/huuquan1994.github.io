@@ -8,14 +8,10 @@ permalink: /about-me/
 Ph.D. student at Hosei University, Tokyo.  
 Applying Machine Learning/Deep Learning/Computer Vision for Automated & Precision Agriculture.  
 A dogs lover.  
-In love with Marvel Universe and many superhero movies.  
-  
-   
-   
-   
-   
-   
-   
+In love with Marvel Universe and many superhero movies.
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ### Research interests
 
 Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Precision Agriculture.
