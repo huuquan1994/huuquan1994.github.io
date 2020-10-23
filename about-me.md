@@ -23,6 +23,6 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 - First prize of the 4th ACM Programming Contest - UIT, 2016
 - Student with Five Good Merits - UIT, 2013-2015 (3 years in a row)
 
-### Academic Activities
+### Academic activities
 
 Reviewer: Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
