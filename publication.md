@@ -12,7 +12,7 @@ permalink: /publication/
 
 ### International conference
 * __Q. H. Cap__, H. Iyatomi, A. Fukuda, "MIINet: An Image Quality Improvement Framework for Supporting Medical Diagnosis," to appear at the __25th International Conference on Pattern Recognition Workshops (ICPR2020)__, Milan, Italy, 2020.
-* K. Obi, __Q. H. Cap__, N. Umegaki-Arao, M. Tanaka, H. Iyatomi, "Bulk Production Augmentation Towards Explainable Melanoma Diagnosis," to appear at the __IEEE EMBS Conference on Biomedical Engineering and Sciences__ (IECBES2020), Langkawi, Malaysia, 2020.
+* K. Obi, __Q. H. Cap__, N. Umegaki-Arao, M. Tanaka, H. Iyatomi, "Bulk Production Augmentation Towards Explainable Melanoma Diagnosis," to appear at the __IEEE EMBS Conference on Biomedical Engineering and Sciences__ (IECBES2020), Langkawi, Malaysia, 2020. (Student Best Paper Award)
 * S. Kanno, S. Nagasawa, __Q. H. Cap__, S. Shibuya, H. Uga, S. Kagiwada, H. Iyatomi, "PPIG: Productive and Pathogenic Image Generation for Plant Disease Diagnosis," to appear at the __IEEE EMBS Conference on Biomedical Engineering and Sciences__ (IECBES2020), Langkawi, Malaysia, 2020.
 * K. Suwa, __Q. H. Cap__, S. Kagiwada, H. Uga, H. Iyatomi, "A Comparable Study: Intrinsic Difficulties of Practical Plant Diagnosis from Wide-angle Images," __IEEE BigData Workshops__, Los Angeles, CA, 2019. [[Link]](https://arxiv.org/abs/1910.11506)
 * T. Saikawa, __Q. H. Cap__, S. Kagiwada, H. Uga, H. Iyatomi, "AOP: An Anti-overfitting Pretreatment for Practical Image-based Plant Diagnosis," __IEEE BigData Workshops__, Los Angeles, CA, 2019. [[Link]](https://arxiv.org/abs/1911.10727)
