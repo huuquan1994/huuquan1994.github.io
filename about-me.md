@@ -16,7 +16,9 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 
 ### Awards and honors
 
+- Scholarship recipients of the Watanuki International Foundation Scholarship three years in a row, 2019-2021
 - Representative student to give a welcome speech at Hosei University's Fall Entrance Ceremony, 2020
+- Student best paper award at the IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES), 2020 
 - Representative student at Hosei University's Master Graduation Ceremony, 2018
 - Best paper award at the ISCIA2018, Malaysia, 2018
 - Exchange student at the Japan-Asia Youth Exchange Program in Science (SAKURA), 2016
@@ -26,3 +28,9 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 ### Academic activities
 
 Reviewer: Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
+
+### Social activities
+
+- English Instructor Volunteer in Summer Camp in Nasu, Tochigi, 2019
+- Leader at the Japan-Asia Youth Exchange Program in Science (SAKURA), Hosei University, 2017-2019
+- Blood donation five times, 2013-2016
