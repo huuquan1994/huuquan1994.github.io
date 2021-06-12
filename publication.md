@@ -8,9 +8,6 @@ permalink: /publication/
 * __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," to appear at the __IEEE Transactions on Automation Science and Engineering__ (T-ASE), 2020. [[Link]](https://arxiv.org/abs/2002.10100)
 * __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," __International Journal of Engineering & Technology__, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](http://iyatomi-lab.info/sites/default/files/user/IJET-20784.pdf)
 
-### Preprint
-
-
 ### International conference
 * __Q. H. Cap__, H. Iyatomi, A. Fukuda, "MIINet: An Image Quality Improvement Framework for Supporting Medical Diagnosis," to appear at the __25th International Conference on Pattern Recognition Workshops (ICPR2020)__, Milan, Italy, 2020.
 * K. Obi, __Q. H. Cap__, N. Umegaki-Arao, M. Tanaka, H. Iyatomi, "Bulk Production Augmentation Towards Explainable Melanoma Diagnosis," to appear at the __IEEE EMBS Conference on Biomedical Engineering and Sciences__ (IECBES2020), Langkawi, Malaysia, 2020. (Student Best Paper Award)
