@@ -17,7 +17,7 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 ### Awards and honors
 
 - Scholarship recipients of the Watanuki International Foundation Scholarship three years in a row, 2019-2021
-- Representative student to give a welcome speech at Hosei University's Fall Entrance Ceremony, 2020 ([Video](https://youtu.be/bxnbH1GMwYQ?t=1334))
+- Representative student to give a welcome speech at Hosei University's Fall Entrance Ceremony, 2020 ([Video](https://youtu.be/bxnbH1GMwYQ?t=1334){:target="_blank"})
 - Student best paper award at the IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES), 2020 ([Link](https://iist.hosei.ac.jp/2021/04/03/iist-student-quan-huu-cap-won-student-the-best-paper-award/))
 - Representative student at Hosei University's Master Graduation Ceremony, 2018
 - Best paper award at the ISCIA2018, Malaysia, 2018
