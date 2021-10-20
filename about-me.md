@@ -5,7 +5,7 @@ permalink: /about-me/
 ---
 <img align="right" src="{{ site.baseurl }}/images/quan_profile.png" width="190"/>
 <br/><br/>
-Ph.D. of Engineering at Hosei University, Tokyo.  
+Ph.D. in Engineering, Hosei University, Tokyo.  
 Applying Machine Learning/Deep Learning/Computer Vision for Automated & Precision Agriculture and Medical Imaging.  
 A dogs lover.  
 In love with Marvel Universe and many superhero movies.
