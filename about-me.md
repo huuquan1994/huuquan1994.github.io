@@ -12,7 +12,7 @@ In love with Marvel Universe and many superhero movies.
 <br/><br/>
 ### Research interests
 
-Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Precision Agriculture.
+Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Medical Imaging, Precision Agriculture.
 
 ### Awards and honors
 
@@ -27,7 +27,9 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 
 ### Academic activities
 
-Reviewer: Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
+Reviewer:
+- Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
+- IEEE Robotics and Automation Letters (ISSN: 2377-3766, IEEE)
 
 ### Social activities
 
