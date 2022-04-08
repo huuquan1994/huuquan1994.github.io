@@ -29,8 +29,8 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 ### Academic activities
 
 Reviewer:
-- Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
 - IEEE Robotics and Automation Letters (ISSN: 2377-3766, IEEE)
+- Concurrency and Computation: Practice and Experience (ISSN:1532-0634, John Wiley & Sons, Inc.)
 
 ### Social activities
 
