@@ -6,10 +6,12 @@ permalink: /about-me/
 <img align="right" src="{{ site.baseurl }}/images/quan_profile.png" width="190"/>
 <br/><br/>
 AI Research Engieer at [Aillis, Inc.](https://aillis.jp/){:target="_blank"}  
+Graduate Visiting Lecturer at [Hosei University](https://www.hosei.ac.jp/){:target="_blank"}  
 Ph.D. in Engineering, Hosei University, Tokyo.  
-Applying Machine Learning/Deep Learning/Computer Vision for Automated & Precision Agriculture and Medical Imaging.  
-A dogs lover.  
-In love with Marvel Universe and many superhero movies.
+Applying Machine Learning/Deep Learning/Computer Vision for Medical Imaging, and Automated & Precision Agriculture.  
+
+Dogs lover.  
+Big fan Marvel Universe and many superhero movies.
 <br/><br/>
 ### Research interests
 
@@ -27,6 +29,9 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 - Student with Five Good Merits - UIT, 2013-2015 (3 years in a row)
 
 ### Academic activities
+
+Visiting lecturer:
+- Hosei University (since 9/2022)  
 
 Reviewer:
 - IEEE Robotics and Automation Letters (ISSN: 2377-3766, IEEE)
