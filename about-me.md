@@ -11,7 +11,7 @@ Ph.D. in Engineering, Hosei University, Tokyo.
 Applying Machine Learning/Deep Learning/Computer Vision for Medical Imaging, and Automated & Precision Agriculture.  
 
 Dogs lover.  
-Big fan Marvel Universe and many superhero movies.
+Big fan of Marvel Cinematic Universe and many superhero movies.
 <br/><br/>
 ### Research interests
 
