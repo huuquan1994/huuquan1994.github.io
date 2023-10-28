@@ -4,6 +4,7 @@ title: Publications
 permalink: /publication/
 ---
 ### Journal
+* __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link]](https://arxiv.org/abs/2309.01903){:target="_blank"}
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," __Computers and Electronics in Agriculture__ (COMPAG), 2021. [[Link]](https://arxiv.org/abs/2010.06499){:target="_blank"}
 * __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," __IEEE Transactions on Automation Science and Engineering__ (T-ASE), 2020. [[Link]](https://arxiv.org/abs/2002.10100){:target="_blank"}
 * __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," __International Journal of Engineering & Technology__, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](http://iyatomi-lab.info/sites/default/files/user/IJET-20784.pdf){:target="_blank"}
