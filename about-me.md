@@ -7,15 +7,14 @@ permalink: /about-me/
 <br/><br/>
 AI Research Engineer at [Aillis, Inc.](https://aillis.jp/){:target="_blank"}  
 Graduate Visiting Lecturer at [Hosei University](https://www.hosei.ac.jp/){:target="_blank"}  
-Ph.D. in Engineering, Hosei University, Tokyo.  
-Applying Machine Learning/Deep Learning/Computer Vision for Medical Imaging, and Automated & Precision Agriculture.  
+Ph.D. in Engineering  
+Applying Machine Learning/Deep Learning/Computer Vision for Medical Imaging, and Precision Agriculture  
 
-Dogs lover.  
-Big fan of Marvel Cinematic Universe and many superhero movies.
+A dogs lover and a BIG fan of the Marvel Cinematic Universe
 <br/><br/>
 ### Research interests
 
-Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Medical Imaging, Precision Agriculture.
+Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Networks (GANs), Medical Imaging, Precision Agriculture
 
 ### Awards and honors
 
