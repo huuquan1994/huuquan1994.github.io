@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication & Teaching
-permalink: /publication/
+permalink: /publication-teaching/
 ---
 ## Publications
 ### Journals
