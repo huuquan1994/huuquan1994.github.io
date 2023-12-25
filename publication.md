@@ -3,14 +3,14 @@ layout: page
 title: Publications & Teaching
 permalink: /publication/
 ---
-# Publications
+## Publications
 ### Journals
 * __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link]](https://arxiv.org/abs/2309.01903){:target="_blank"}
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," __Computers and Electronics in Agriculture__ (COMPAG), 2021. [[Link]](https://arxiv.org/abs/2010.06499){:target="_blank"}
 * __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," __IEEE Transactions on Automation Science and Engineering__ (T-ASE), 2020. [[Link]](https://arxiv.org/abs/2002.10100){:target="_blank"}
 * __Q. H. Cap__, K. Suwa, E. Fujita, H. Uga, S. Kagiwada, and H. Iyatomi, "An End-to-end Practical Plant Disease Diagnosis System for Wide-angle Cucumber Images," __International Journal of Engineering & Technology__, vol. 7, no. 4.11, pp. 106–111, 2018. [[Link]](http://iyatomi-lab.info/sites/default/files/user/IJET-20784.pdf){:target="_blank"}
 
-### International conferences
+### Conferences
 * S. Shibuya, __Q. H. Cap__, S. Nagasawa, S. Kagiwada, H. Uga, H. Iyatomi, "Validation of Prerequisites for Correct Performance Evaluation of Image-based Plant Disease Diagnosis using Reliable 221K Images Collected from Actual Fields," __AI for Agriculture and Food Systems, AAAI Workshops__ (AAAI2022), 2022. [[Link]](https://openreview.net/forum?id=md2UDQ7W_IV){:target="_blank"}
 * K. Odagiri, S. Shibuya, __Q. H. Cap__, H. Iyatomi, "Key area acquisition training for practical image-based plant disease diagnosis," __IEEE Colloquium on Signal Processing and its Applications__ (CSPA2022), Malaysia, 2022. [[Link]](https://ieeexplore.ieee.org/document/9781877){:target="_blank"}
 * __Q. H. Cap__, H. Iyatomi, A. Fukuda, "MIINet: An Image Quality Improvement Framework for Supporting Medical Diagnosis," __International Conference on Pattern Recognition Workshops__ (ICPRW2020), Milan, Italy, 2020. [[Link]](https://arxiv.org/abs/2011.14132){:target="_blank"}
@@ -22,12 +22,10 @@ permalink: /publication/
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "Super-Resolution for Practical Automated Plant Disease Diagnosis System," __The Annual Conference on Information Sciences and Systems__ (CISS2019), Maryland, USA, 2019. [[Link]](https://ieeexplore.ieee.org/document/8692855){:target="_blank"}
 * __Q. H. Cap__, K. Suwa, E. Fujita, S. Kagiwada, H. Uga, H. Iyatomi, "An End-To-End Practical Plant Disease Diagnosis System for Wide-Angle Cucumber Images," __International Symposium on Computational Intelligence & Applications__ (ISCIA2018), Langkawi, Malaysia, 2018. (Best Paper Award) [[Link]](http://iyatomi-lab.info/sites/default/files/user/IJET-20784.pdf){:target="_blank"}
 * __H. Q. Cap__, K. Suwa, E. Fujita, S. Kagiwada, H. Uga, H. Iyatomi, "A Deep Learning Approach for on-site Plant Leaf Detection," __IEEE Colloquium on Signal Processing and its Applications__ (CSPA2018), Penang, Malaysia, 2018. [[Link]](https://ieeexplore.ieee.org/abstract/document/8368697){:target="_blank"}
-
-### Domestic conferences
 * __Q. H. Cap__, E. Fujita, K. Suwa, S. Kagiwada, H. Uga, H. Iyatomi, "A Basic Study on Leaves Detection with Deep Learning Features," __Forum of Information Technology__ (FIT2017), Tokyo, 2017.
 
 <!-- ### Google Scholar -->
 <!-- [Quan Huu Cap](https://scholar.google.com/citations?user=a15V7MIAAAAJ&hl=en){:target="_blank"} -->
-# Teaching
+## Teaching
 ### Hosei University
 YB039: Efficient Processing of Deep Learning [Winter 2022] [Winter 2023](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2318698&nendo=2023&gakubu_id=%E7%90%86%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91&gakubueng=EV&t_mode=pc)
