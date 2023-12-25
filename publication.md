@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Publications & Teaching
 permalink: /publication/
 ---
+# Publications
 ### Journals
 * __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link]](https://arxiv.org/abs/2309.01903){:target="_blank"}
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," __Computers and Electronics in Agriculture__ (COMPAG), 2021. [[Link]](https://arxiv.org/abs/2010.06499){:target="_blank"}
