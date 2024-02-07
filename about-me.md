@@ -31,6 +31,7 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 
 Reviewer:
 - Biomedical Signal Processing and Control (ISSN: 1746-8108, Elsevier)
+- LWT - Food Science and Technology (ISSN: 1096-1127, Elsevier)
 - IEEE Robotics and Automation Letters (ISSN: 2377-3766, IEEE)
 - IEEE Access (ISSN: 2169-3536, IEEE)
 - Concurrency and Computation: Practice and Experience (ISSN: 1532-0634, John Wiley & Sons, Inc.)
