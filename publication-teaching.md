@@ -5,6 +5,7 @@ permalink: /publication-teaching/
 ---
 ## Publications
 ### Journals
+* __Q. H. Cap__, A. Fukuda, H. Iyatomi, "A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement," __Biomedical Signal Processing and Control__ (BSPC), 2024. [[Link](https://arxiv.org/abs/2304.01864){:target="_blank"}]
 * __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link](https://arxiv.org/abs/2309.01903){:target="_blank"}]
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," __Computers and Electronics in Agriculture__ (COMPAG), 2021. [[Link](https://arxiv.org/abs/2010.06499){:target="_blank"}]
 * __Q. H. Cap__, H. Uga, S. Kagiwada, H. Iyatomi, "LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis," __IEEE Transactions on Automation Science and Engineering__ (T-ASE), 2020. [[Link](https://arxiv.org/abs/2002.10100){:target="_blank"}]
@@ -29,4 +30,4 @@ permalink: /publication-teaching/
 <!-- [Quan Huu Cap](https://scholar.google.com/citations?user=a15V7MIAAAAJ&hl=en){:target="_blank"} -->
 ## Teaching
 ### Hosei University
-YB039: Efficient Processing of Deep Learning [Winter 2022] [[Winter 2023](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2318698&nendo=2023&gakubu_id=%E7%90%86%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91&gakubueng=EV&t_mode=pc){:target="_blank"}]
+YB039: Efficient Processing of Deep Learning [Winter 2022] [Winter 2023] [[Winter 2024](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2417823&nendo=2024&gakubueng=EV&t_mode=pc&radd=){:target="_blank"}]
