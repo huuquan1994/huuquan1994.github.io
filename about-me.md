@@ -30,6 +30,7 @@ Deep Learning, Computer Vision, Super-resolution, Generative Adversarial Network
 ### Academic activities
 
 Reviewer:
+- Computers and Electronics in Agriculture (ISSN: 0168-1699, Elsevier)
 - Biomedical Signal Processing and Control (ISSN: 1746-8108, Elsevier)
 - LWT - Food Science and Technology (ISSN: 1096-1127, Elsevier)
 - IEEE Robotics and Automation Letters (ISSN: 2377-3766, IEEE)
