@@ -18,10 +18,10 @@ A dad & a dogs lover. Also a big fan of Marvel super heroes.
 Deep Learning, Computer Vision, Super-Resolution, Generative AI, Medical Imaging, Precision Agriculture
 
 ### Data Science Competitions
-- **1st Place in All Tracks** (Solo) - [Kidney Pathology Image segmentation Challenge](https://sites.google.com/view/kpis2024/) - MICCAI 2024
-- **1st Place** (Solo) - [Agriculture-Vision Prize Challenge](https://www.agriculture-vision.com/agriculture-vision-2024/prize-challenge-2024) - CVPR 2024
-- **Silver Medal** (Solo, rank 36/2048) - [PII Data Detection](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data) - Kaggle
-- **Silver Medal** (Solo, rank 34/1231) - [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts) - Kaggle
+- **1st Place in All Tracks** (Solo) - [Kidney Pathology Image segmentation Challenge](https://sites.google.com/view/kpis2024/){:target="_blank"} - MICCAI 2024
+- **1st Place** (Solo) - [Agriculture-Vision Prize Challenge](https://www.agriculture-vision.com/agriculture-vision-2024/prize-challenge-2024){:target="_blank"} - CVPR 2024
+- **Silver Medal** (Solo, rank 36/2048) - [PII Data Detection](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data){:target="_blank"} - Kaggle
+- **Silver Medal** (Solo, rank 34/1231) - [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts){:target="_blank"} - Kaggle
 
 ### Awards and Honors
 
