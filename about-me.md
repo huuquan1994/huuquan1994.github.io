@@ -10,7 +10,7 @@ Graduate Visiting Lecturer at [Hosei University](https://www.hosei.ac.jp/){:targ
 Ph.D. in Engineering  
 Machine Learning/Deep Learning/Computer Vision for Medical Imaging, and Precision Agriculture  
 
-A dad & a dogs lover. Also a big fan of Marvel super heroes.
+A dad, a dog lover, and a big fan of Marvel superheroes.
 <br/><br/>
 
 ### Research Interests
