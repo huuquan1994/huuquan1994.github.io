@@ -35,6 +35,7 @@ Deep Learning, Computer Vision, Super-Resolution, Generative AI, Medical Imaging
 ### Academic Activities
 
 Reviewer:
+- IEEE International Symposium on Biomedical Imaging (ISBI 2025)
 - Computers and Electronics in Agriculture (ISSN: 0168-1699, Elsevier)
 - Biomedical Signal Processing and Control (ISSN: 1746-8108, Elsevier)
 - LWT - Food Science and Technology (ISSN: 1096-1127, Elsevier)
