@@ -5,6 +5,7 @@ permalink: /publication-teaching/
 ---
 ## Publications
 ### Journals
+* H. Okamoto, __Q. H. Cap__, T. Nomura, K. Nabeshima, J. Hashimoto, H. Iyatomi, "Practical X-ray gastric cancer diagnostic support using refined stochastic data augmentation and hard boundary box training," __Artificial Intelligence in Medicine__ (AIIM), 2025. [[Link](https://arxiv.org/abs/2108.08158){:target="_blank"}]
 * __Q. H. Cap__, A. Fukuda, H. Iyatomi, "A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement," __Biomedical Signal Processing and Control__ (BSPC), 2024. [[Link](https://arxiv.org/abs/2304.01864){:target="_blank"}]
 * __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link](https://arxiv.org/abs/2309.01903){:target="_blank"}]
 * __Q. H. Cap__, H. Tani, H. Uga, S. Kagiwada, H. Iyatomi, "LASSR: Effective Super-Resolution Method for Plant Disease Diagnosis," __Computers and Electronics in Agriculture__ (COMPAG), 2021. [[Link](https://arxiv.org/abs/2010.06499){:target="_blank"}]
