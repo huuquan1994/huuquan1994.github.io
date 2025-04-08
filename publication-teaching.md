@@ -31,4 +31,4 @@ permalink: /publication-teaching/
 <!-- [Quan Huu Cap](https://scholar.google.com/citations?user=a15V7MIAAAAJ&hl=en){:target="_blank"} -->
 ## Teaching
 ### Hosei University
-YB039: Efficient Processing of Deep Learning [Winter 2022] [Winter 2023] [[Winter 2024](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2417823&nendo=2024&gakubueng=EV&t_mode=pc&radd=){:target="_blank"}]
+YB039: Efficient Processing of Deep Learning [Winter 2022-2024] [[Winter 2025](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2514977&nendo=2025&gakubueng=EV&t_mode=pc&radd=){:target="_blank"}]
