@@ -15,7 +15,7 @@ A dad, a dog lover, and a big fan of Marvel superheroes.
 
 ### Research Interests
 
-Deep Learning, Computer Vision, Super-Resolution, Generative AI, Medical Imaging, Precision Agriculture
+Deep Learning, Computer Vision, Medical Imaging, Generative AI, Precision Agriculture
 
 ### Data Science Competitions
 - **1st Place in Surgical VQA track** (Solo) - [Surgical Visual Understanding Challenge](https://surgvu25.grand-challenge.org/){:target="_blank"} - MICCAI 2025
