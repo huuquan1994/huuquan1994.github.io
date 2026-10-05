@@ -5,6 +5,7 @@ permalink: /publication-teaching/
 ---
 ## Publications
 ### Journals
+* Ruining Deng, ..., __Q. H. Cap__ et al., "KPIs 2024 challenge: Advancing glomerular segmentation from patch-to slide-level," __Medical Image Analysis__ (MIA), 2026. [[Link](https://arxiv.org/abs/2502.07288){:target="_blank"}]
 * H. Okamoto, __Q. H. Cap__, T. Nomura, K. Nabeshima, J. Hashimoto, H. Iyatomi, "Practical X-ray gastric cancer diagnostic support using refined stochastic data augmentation and hard boundary box training," __Artificial Intelligence in Medicine__ (AIIM), 2025. [[Link](https://arxiv.org/abs/2108.08158){:target="_blank"}]
 * __Q. H. Cap__, A. Fukuda, H. Iyatomi, "A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement," __Biomedical Signal Processing and Control__ (BSPC), 2024. [[Link](https://arxiv.org/abs/2304.01864){:target="_blank"}]
 * __Q. H. Cap__, A. Fukuda, S. Kagiwada, H. Uga, N. Iwasaki, H. Iyatomi, "Towards Robust Plant Disease Diagnosis with Hard-sample Re-mining Strategy," __Computers and Electronics in Agriculture__ (COMPAG), 2023. [[Link](https://arxiv.org/abs/2309.01903){:target="_blank"}]
@@ -34,4 +35,4 @@ permalink: /publication-teaching/
 <!-- [Quan Huu Cap](https://scholar.google.com/citations?user=a15V7MIAAAAJ&hl=en){:target="_blank"} -->
 ## Teaching
 ### Hosei University
-YB039: Efficient Processing of Deep Learning [Winter 2022-2024] [[Winter 2025](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2514977&nendo=2025&gakubueng=EV&t_mode=pc&radd=){:target="_blank"}]
+YB039: Efficient Processing of Deep Learning [Winter 2022-2026] [[Winter 2026](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2617709&nendo=2026&gakubueng=EV&t_mode=pc&radd=){:target="_blank"}]
