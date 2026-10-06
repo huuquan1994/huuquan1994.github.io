@@ -19,7 +19,7 @@ Deep Learning, Computer Vision, Medical Imaging, Generative AI, Precision Agricu
 
 ### Data Science Competitions
 - **1st Place in VQA track & 2nd Place in Tool Detection track** (Solo) - [Surgical Visual Understanding Challenge](https://surgvu26.grand-challenge.org/){:target="_blank"} - MICCAI 2026
-- **2nd Place in Brain MRI Inpainting track** (Solo) - [BraTS 2026 Challenge](https://challenges.synapse.org/Challenges/DetailsPage/Overview?id=syn74274097/){:target="_blank"} - MICCAI 2026
+- **2nd Place in Brain MRI Inpainting track** (Solo) - [BraTS 2026 Challenge](https://challenges.synapse.org/Challenges/DetailsPage/Overview?id=syn74274097){:target="_blank"} - MICCAI 2026
 - **1st Place in VQA track** (Solo) - [Surgical Visual Understanding Challenge](https://surgvu25.grand-challenge.org/){:target="_blank"} - MICCAI 2025
 - **1st Place in All Tracks** (Solo) - [Kidney Pathology Image segmentation Challenge](https://sites.google.com/view/kpis2024/){:target="_blank"} - MICCAI 2024
 - **1st Place** (Solo) - [Agriculture-Vision Prize Challenge](https://www.agriculture-vision.com/agriculture-vision-2024/prize-challenge-2024){:target="_blank"} - CVPR 2024
